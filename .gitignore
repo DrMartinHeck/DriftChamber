@@ -1,3 +1,9 @@
+#scons related
+.sconsign.dblite
+
+#executable
+driftChamber_exe
+
 # Prerequisites
 *.d
 

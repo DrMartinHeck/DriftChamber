@@ -1,1 +1,1 @@
-Program('src/driftChamber.cc')
+Program('driftChamber_exe','src/driftChamber.cc')
